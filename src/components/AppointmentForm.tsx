@@ -110,7 +110,7 @@ export default function AppointmentForm() {
       <div className="text-center space-y-2 mb-8">
         <h1 className="text-3xl font-bold tracking-tight">Book an Appointment</h1>
         <p className="text-muted-foreground">
-          Fill out the form below to schedule your appointment with Chamuditha Lanka
+          Fill out the form below to schedule your appointment with <b>Chamuditha Lanka</b>
         </p>
       </div>
 
